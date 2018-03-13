@@ -9,6 +9,7 @@
 #include <fcntl.h>  
 #include <stdarg.h>  
 
+//test
 enum switch_mode
 {
 	mode_minute,
